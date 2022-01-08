@@ -13,7 +13,7 @@ This is a tutorial explaining all the different search patterns of all the speci
 
 ## Installation
 
-[Regex Tutorial](https://github.com/dorvilsteven/Regex-Tutorial/blob/main/gist-template.md)
+[Regex Tutorial](https://github.com/dorvilsteven/Regex-Tutorial/)
 
 You can read the tutorial via the link above, or `git clone` the app and take it with you anywhere.
 
